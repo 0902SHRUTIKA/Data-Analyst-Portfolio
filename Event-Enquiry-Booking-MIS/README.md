@@ -117,3 +117,7 @@ Future versions of this project can include:
 - Power BI version of the dashboard
 - SQL-based data analysis
 - Additional KPI and profitability analysis
+
+## 📊 Dashboard Preview
+
+![Event Enquiry & Booking MIS Dashboard](./Dashboard.png)
