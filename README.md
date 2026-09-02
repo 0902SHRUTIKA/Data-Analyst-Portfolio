@@ -44,7 +44,7 @@ I am building my career in **MIS and Data Analytics**, with a focus on transform
 
 An Excel-based MIS dashboard for analyzing event enquiries, bookings, lead sources, event types, lead status, and revenue performance.
 
-👉 **[View Project](./Event-Enquiry-Booking-MIS/)**
+📥 **[Download Excel Project](../../raw/main/Event-Enquiry-Booking-MIS.xlsx)**
 
 ---
 
