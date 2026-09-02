@@ -36,72 +36,32 @@ I am building my career in **MIS and Data Analytics**, with a focus on transform
 
 ---
 
-# 📂 Projects
+## 📂 Projects
 
-## 1. Event Enquiry & Booking MIS Dashboard
+### 📊 1. [Event Enquiry & Booking MIS Dashboard](./Event-Enquiry-Booking-MIS/)
 
-**Tool:** Microsoft Excel
+**Tools:** Microsoft Excel | MIS Reporting | Data Analysis
 
-### 📌 Project Overview
+An Excel-based MIS dashboard for analyzing event enquiries, bookings, lead sources, event types, lead status, and revenue performance.
 
-An Excel-based MIS dashboard designed to analyze event enquiries, bookings, lead sources, event types, lead status, monthly performance, and revenue.
-
-### 🎯 Objective
-
-To convert raw event enquiry data into an interactive MIS report that helps management monitor enquiry performance, booking conversion, revenue, and lead sources.
-
-### 🔍 Key Analysis
-
-* Monthly enquiry and booking performance
-* Revenue analysis
-* Lead source analysis
-* Event type analysis
-* Lead status analysis
-* Booking conversion
-* MIS reporting and dashboard visualization
-
-### 🧰 Tools & Techniques
-
-* Microsoft Excel
-* Data Cleaning
-* Excel Formulas
-* PivotTables
-* PivotCharts
-* Dashboard
-* MIS Reporting
-
-### 📊 Project Files
-
-**Excel Workbook:** `Event Enquiry & Booking MIS.xlsx`
+👉 **[View Project](./Event-Enquiry-Booking-MIS/)**
 
 ---
 
-## 📈 What I Learned
+### 🛒 2. E-commerce Sales Analysis
 
-Through this project, I practiced:
+**Tools:** SQL | Data Analysis
 
-* Structuring raw business data
-* Cleaning and preparing data
-* Creating MIS reports
-* Using Excel analytical functions
-* Creating management dashboards
-* Identifying business trends and insights
+Analysis of e-commerce sales, customers, products, revenue, and business performance.
+
+🚧 **Coming Soon**
 
 ---
 
-## 🚀 Currently Learning
+### 📈 3. Sales Performance Dashboard
 
-* Advanced Excel
-* SQL
-* Power BI
-* Data Analytics
-* Business Intelligence
+**Tools:** Power BI | DAX | Power Query
 
----
+Interactive Power BI dashboard for analyzing sales, profit, products, regions, and business KPIs.
 
-## 📫 Connect With Me
-
-**LinkedIn:** https://www.linkedin.com/in/shrutika-sonavane-9179383b9/
-
-**GitHub:** You're already here! 😊
-# Data-Analyst-Portfolio
+🚧 **Coming Soon**
